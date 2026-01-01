@@ -458,15 +458,10 @@ SOFTWARE.
 ## 📧 İletişim
 
 ### Proje Sahibi
-- **Ad Soyad**: [Adınız Soyadınız]
-- **E-posta**: [email@example.com]
-- **GitHub**: [@kullaniciadi](https://github.com/kullaniciadi)
-- **LinkedIn**: [linkedin.com/in/profiliniz](https://linkedin.com/in/profiliniz)
+- **Ad Soyad**: [Fazlı Efe Önder]
+- **E-posta**: [onderfazli59@gmail.com.com]
+- **GitHub**: [@fazliefe](https://github.com/kullaniciadi)
 
-### Proje Bağlantıları
-- **GitHub Repository**: [https://github.com/kullaniciadi/Zaman_Serisi](https://github.com/kullaniciadi/Zaman_Serisi)
-- **Issue Tracker**: [https://github.com/kullaniciadi/Zaman_Serisi/issues](https://github.com/kullaniciadi/Zaman_Serisi/issues)
-- **Discussions**: [https://github.com/kullaniciadi/Zaman_Serisi/discussions](https://github.com/kullaniciadi/Zaman_Serisi/discussions)
 
 ---
 
@@ -512,3 +507,4 @@ Bu proje aşağıdaki kaynaklar ve topluluklar sayesinde geliştirilmiştir:
 [🔝 Başa Dön](#-trafik-hacmi-tahmin-sistemi-lstm-zaman-serisi-analizi)
 
 </div>
+
